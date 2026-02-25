@@ -242,7 +242,7 @@ The training pipeline saves key visualizations to the `plots/` directory:
 
   ![History + 28-Day Forecast](plots/history_plus_forecast_gb.png)
 
-These plots are ideal for portfolio screenshots and interview discussions.
+
 
 ---
 
